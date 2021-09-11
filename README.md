@@ -1,4 +1,5 @@
 # SwGuildApp
+This project aims to give a better experience for Summoners War players on Guild content :)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 
